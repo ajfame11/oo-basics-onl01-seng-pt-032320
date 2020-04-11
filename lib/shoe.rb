@@ -37,7 +37,7 @@ class Shoe
   end
   
   def condition
-    @condition 
+    @condition = "tattered"
   end
   
   def cobble
